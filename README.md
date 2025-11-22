@@ -45,4 +45,4 @@ carpeta que hayas seleccionado al crear el repositorio.
 Ya por ultimo para ejecutarlo solo tienes que ir a la clase "Principal" y darle en "Run" (la opcion "Run" varia segun el IDE). (Si, no se crear ejecutables).
 
 ## Autor
- [<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/5906cc3b-ed4b-431b-b7be-67188694eaf9" /><br><sub>Geremy Quiñonez</sub>](https://https://github.com/Skewer25) 
+ [<img width=115 alt="image" src="https://github.com/user-attachments/assets/5906cc3b-ed4b-431b-b7be-67188694eaf9" /><br><sub>Geremy Quiñonez</sub>](https://https://github.com/Skewer25) 
