@@ -6,8 +6,10 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConsultaConversion {
+    private final String API_KEY = System.getenv("ER_APIKEY");
+
     public Conversion realizarConversion(String monedaBase, String monedaObjetivo,double cantidadAConvertir){
-        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/90be24d9d40b72793e204472/pair/" + monedaBase +
+        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/"+API_KEY+"/pair/" + monedaBase +
                 "/" + monedaObjetivo + "/" + cantidadAConvertir);
 
         HttpClient client = HttpClient.newHttpClient();
