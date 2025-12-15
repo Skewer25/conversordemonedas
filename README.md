@@ -1,6 +1,10 @@
 <em> Challenge ONE G9 Conversor de Monedas </em>
 Estado del proyecto: Completado :white_check_mark:
 
+## Aviso
+Para usar el conversor tienes que crear una variable de entorno en tu pc, el metodo varia segun el sistema operativo; aqui no se muestra ninguno de los metodos por lo que se
+recomienda buscar un tutorial en linea.
+
 ## Introduccion
 Es un conversor de monedas simple que utiliza la API de ExchangeRate para consultar los valores de las monedas y realizar conversiones; parte de las tareas en el programa
 ONE G9. Por ahora solo tiene 6 monedas disponibles pero con el tiempo quizas le añada mas o mejore el codigo. Las monedas disponibles son: Dolar Estadounidense, Bolivar 
